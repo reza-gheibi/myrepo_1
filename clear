@@ -1,0 +1,17 @@
+[33mcommit d5aced2e1f57f4e5c0a0b257cfe28a37b501842a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Reza Gheibi <rezagheibi@ou.edu>
+Date:   Sun Mar 23 14:17:26 2025 -0500
+
+    2nd line
+
+[33mcommit 030b9cac21da18232c6279b6d70d3ac8e071a0fd[m
+Author: Reza Gheibi <rezagheibi@ou.edu>
+Date:   Sun Mar 23 14:08:51 2025 -0500
+
+    added file test1
+
+[33mcommit 6ffc7447c70523feb9732bfbff1b9f2ab8b9b089[m
+Author: Reza Gheibi <rezagheibi@ou.edu>
+Date:   Sun Mar 23 13:35:59 2025 -0500
+
+    first commit
