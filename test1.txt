@@ -3,6 +3,6 @@ Hello test..!
 
 2nd line added..
 
-3rd line added!
+removed!
 
 4rd line now added .. !
